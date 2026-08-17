@@ -15,4 +15,32 @@
 - Created bar charts and summary statistics.
 - Generated business insights.
 
+week 3:- 
+ Overall Business Insights
+
+ Sales Performance
+- Monthly Units Sold analysis was performed to understand sales trends over time.
+- Furniture had the highest total units sold among the categories, while Electronics had the lowest.
+
+ Revenue Performance
+- Revenue was compared across product categories and regions.
+- East generated the highest regional revenue at approximately 138.7 million.
+- West generated the lowest regional revenue at approximately 135.8 million.
+- Overall, revenue was relatively balanced across the four regions.
+
+ Inventory Analysis
+- Furniture had the highest total inventory level.
+- Inventory levels across categories were relatively similar.
+
+ Demand Forecast
+- Furniture had the highest average demand forecast.
+- Electronics had the lowest average demand forecast.
+- The differences between categories were relatively small.
+
+ Correlation Analysis
+- Units Sold and Demand Forecast had an extremely strong positive correlation of approximately 0.997.
+- Units Sold and Revenue had a strong positive correlation of approximately 0.80.
+- Units Sold and Units Ordered had almost zero correlation.
+- Price had almost no linear correlation with Units Sold or Demand Forecast.
+
 
